@@ -1,2 +1,2 @@
-# azure-cloud-resiume
+# azure-cloud-resume
 My azure resume
